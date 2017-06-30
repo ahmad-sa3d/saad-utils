@@ -1,10 +1,11 @@
-##saad-utils
+#saad-utils
+----
 
 
 a small library provides set of helper functions, might be needed for every project
 
 
-###installation
+##installation
 
 	npm install saad-utils --save
 	
@@ -13,7 +14,7 @@ a small library provides set of helper functions, might be needed for every proj
 ###Version: __3.0.0__
 
 
-###Usage:
+##Usage:
 
 >require module
 
@@ -31,7 +32,7 @@ a small library provides set of helper functions, might be needed for every proj
 	console.log( myUtil.toCamelCase( 'Ahmed saad' ) ); // ahmedSaad
 	
 
-###Methods:
+##Methods:
 
 * toNumber( num )
 * uCFirst( str )
