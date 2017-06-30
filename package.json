@@ -1,6 +1,6 @@
 {
   "name": "saad-utils",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "set of helper functions, needed for every project",
   "main": "index.js",
   "scripts": {
