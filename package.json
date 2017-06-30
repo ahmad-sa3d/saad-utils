@@ -1,0 +1,36 @@
+{
+  "name": "saad-utils",
+  "version": "3.0.0",
+  "description": "set of helper functions, needed for every project",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "myutils",
+    "util",
+    "utility",
+    "parametes",
+    "user",
+    "agent",
+    "browser",
+    "system",
+    "scroll",
+    "width",
+    "css",
+    "support",
+    "trim",
+    "text"
+  ],
+  "author": "Ahmed Saad <a7mad.sa3d.2014@gmail.com>",
+  "licenses": [
+  {
+    "type": "cc-by-sa-4.0",
+    "url": "https://github.com/ahmad-sa3d/Simple-MVC-Framework/blob/master/LICENCE"
+  }
+], 
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
